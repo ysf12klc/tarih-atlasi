@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "osmanli-imparatorlugu",
+    "title": "Osmanlı İmparatorluğu",
+    "period": "1299–1922",
+    "summary": "Anadolu’dan üç kıtaya yayılan çok uluslu bir imparatorluk.",
+    "category": "İmparatorluk"
+  },
+  {
+    "slug": "roma-imparatorlugu",
+    "title": "Roma İmparatorluğu",
+    "period": "MÖ 27 – MS 476 (Batı)",
+    "summary": "Cumhuriyetten imparatorluğa evrilen, Avrupa’nın siyasi temelini atan güç.",
+    "category": "İmparatorluk"
+  },
+  {
+    "slug": "abbasiler",
+    "title": "Abbasiler",
+    "period": "750–1258",
+    "summary": "İslam dünyasında bilim ve kültürün geliştiği dönemlerden biri.",
+    "category": "İmparatorluk"
+  }
+]

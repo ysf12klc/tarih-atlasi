@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "malazgirt-1071",
+    "title": "Malazgirt Savaşı",
+    "year": 1071,
+    "summary": "Alp Arslan’ın Bizans’a karşı zaferiyle Anadolu’nun kapıları Türklere açıldı.",
+    "category": "Savaş"
+  },
+  {
+    "slug": "canakkale-1915",
+    "title": "Çanakkale Savaşları",
+    "year": 1915,
+    "summary": "Deniz ve kara muharebeleriyle destansı savunma.",
+    "category": "Savaş"
+  },
+  {
+    "slug": "biri-dunya-savasi",
+    "title": "I. Dünya Savaşı",
+    "year": 1914,
+    "summary": "Dünya siyasetini kökten değiştiren küresel çatışma.",
+    "category": "Savaş"
+  }
+]

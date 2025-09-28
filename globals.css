@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg:#0f0e0d;
+  --card:#171513;
+  --muted:#c3b59f;
+  --accent:#d6b57d;
+}
+
+html, body {
+  height: 100%;
+}
+body {
+  @apply bg-[var(--bg)] text-neutral-100;
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+.container-max {
+  @apply max-w-6xl mx-auto px-4;
+}
+
+.card {
+  @apply bg-[var(--card)] rounded-2xl p-6 shadow-lg;
+}
+
+.link {
+  @apply underline decoration-[var(--accent)] underline-offset-4 hover:text-[var(--accent)];
+}
